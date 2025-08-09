@@ -1,8 +1,5 @@
 # Spectre Inc Finance Dashboard
-
-I made this because I was bored.
-</br>
-Spectre Inc is a visually immersive finance-themed dashboard built with Next.js 15, TypeScript, and Tailwind CSS v4, featuring a 3D animated landing page crafted in Spline. Click through to enter the dashboard.
+Spectre Inc is a visually immersive finance-themed dashboard built with Next.js 15, TypeScript, and Tailwind CSS v4, featuring a 3D animated landing page crafted in Spline. Click the Dashboard button to transition from the 3D landing scene into a modern, responsive analytics hub, complete with **light/dark mode switching** and **theme selection** for you to personalize your workspace to match your style. 
    <div>
      <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" />
      <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -23,5 +20,9 @@ Spectre Inc is a visually immersive finance-themed dashboard built with Next.js 
 - **Tailwind CSS v4** – Utility-first styling  
 - **Shadcn UI** – Component library  
 - **Spline** – 3D interactive landing page
+</br>
 
+-----------------------------------------------
+💡 If this project taught you something new, or sparked an idea, why not be part of it?  
+   Fork it, tweak it, break it (and fix it 😄), your creativity is welcome here. 
   
